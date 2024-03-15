@@ -9,4 +9,9 @@ public class Student {
        this.name = name;
        this.age = age;
    }
+   public Student(){
+       this.age = 28;
+       this.name="ashraful";
+       this.roll=1;
+   }
 }
