@@ -9,7 +9,7 @@ class Vehicle{
         System.out.println(name);
         System.out.println(price);
         System.out.println(colour);
-        
+
     }
 }
 
